@@ -16,6 +16,5 @@ Sales of video games in different geographical regions have remained constant ov
 
 # Outcomes:
 - GameCo’s sales fluctuated by region over time, especially from year 1980 - 1996.
-- North America has been the leading market.
-- However, sales in the European region have been steadily increasing, followed by a slower growth in Japan.
+- North America has been the leading market.However, sales in the European region have been steadily increasing, followed by a slower growth in Japan.
 - Though the popularity of genres fluctuates by region, certain genres have remained popular in specific regions.
